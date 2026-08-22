@@ -118,15 +118,15 @@ Employee age and department distribution were analyzed to understand the structu
 - The maximum salary in the dataset was **₦83,000**.
 
 ---
-
 ## 📊 Visualizations
 
-The Python analysis includes visualizations showing:
+### Average Salary by Department
 
-- Average salary by department
-- Employee distribution by department
-- Total salary by department
-- Salary-related patterns and comparisons
+![Average Salary by Department](average_salary_by_department.png)
+
+### Employee Distribution by Department
+
+![Employee Distribution by department](employee_distribution.png)
 
 ---
 
