@@ -122,7 +122,7 @@ Employee age and department distribution were analyzed to understand the structu
 
 ![Average Salary by Department](average_salary_by_department.jpg)
 
-![Employee Distribution by department](employee_distribution.png)
+![Employee Distribution by department](employee_distribution.jpg)
 
 ---
 
